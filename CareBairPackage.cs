@@ -31,7 +31,6 @@ namespace CareBairPackage
 			MadSkills.Awake(Config);
 			ClothState.Awake(Config);
 			EnvironmentControl.Awake(Config);
-			ExtendedGraphics.Awake(Config);
 			FasterWarp.Awake(Config);
 			HMacro.Awake(Config);
 			OutfitRework.Awake(Config);
